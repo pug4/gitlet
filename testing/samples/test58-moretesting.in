@@ -1,0 +1,12 @@
+I prelude1.inc
++ h.txt wug2.txt
+> add h.txt
+<<<
+> commit "h.txt added"
+<<<
+E h.txt
+> add h.txt
+<<<
+> commit "h.txt unchanged"
+No changes added to the commit.
+<<<
